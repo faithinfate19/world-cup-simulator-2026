@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Header from "./components/Header";
+import Header from "./components/header";
 import GroupCard from "./components/GroupCard";
 import ChampionCard from "./components/ChampionCard";
 import Bracket from "./components/Bracket";
